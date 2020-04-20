@@ -4,7 +4,7 @@ Data cleaning.
 Data analysis.
 Training our predicting model.
 Results.
-The project will consist of 3 sprints, each sprint will be limited in time (1 week or less).
+
 
 TO DO list:
 
