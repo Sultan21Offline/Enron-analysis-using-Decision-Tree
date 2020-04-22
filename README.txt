@@ -1,9 +1,9 @@
 Goals:
-Collecting the Datasets.
-Data cleaning.
-Data analysis.
-Training our predicting model.
-Results.
+1.Collecting the Datasets.
+2.Data cleaning.
+3.Data analysis.
+4.Training our predicting model.
+5.Results.
 
 
 TO DO list:
