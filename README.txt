@@ -17,3 +17,5 @@ The second dataset contains the financial data of employees. Based on them, we c
 
 3)Error correction. Testing. Check if the algorithm scatters our messages into classes correctly. We will check the accuracy of our predictions by adding a comparison with other algorithms.
 We will add a new employee by entering his financial affairs. Check if our employee will be a suspect or not?
+
+package.pkl - dataset.
