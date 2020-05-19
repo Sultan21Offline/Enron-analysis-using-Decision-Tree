@@ -19,3 +19,6 @@ The second dataset contains the financial data of employees. Based on them, we c
 We will add a new employee by entering his financial affairs. Check if our employee will be a suspect or not?
 
 package.pkl - dataset.
+
+
+dos2unix.txt needed to read the pkl file, because when you read the file that is provided on the kaggle website, an error "the STRING opcode argument must be quoted" is issued.
